@@ -1,6 +1,3 @@
-Here’s a sample `README.md` file for your QR Code Generator project. You can customize it as needed:
-
----
 
 # QR Code Generator
 
